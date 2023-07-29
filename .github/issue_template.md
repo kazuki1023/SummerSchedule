@@ -17,3 +17,7 @@
 [jobstring](https://job.tracks.run/official-challenges/official-24-01)
 [競プロ](https://atcoder.jp/?lang=ja)
 
+[横浜テニスコート](https://yoyaku.city.yokohama.lg.jp/ys/mainservlet/UserPublic)
+[はまっこカード一覧](https://docs.google.com/spreadsheets/d/1WipMF3mg30K85WaFrFDVMvD6UIYul2XSD-eIH_Zfib0/edit#gid=0)
+
+
